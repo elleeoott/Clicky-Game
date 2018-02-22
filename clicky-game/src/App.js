@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import cats from './cats.json'
 import Wrapper from './components/Wrapper'
+import Navpills from './components/Navpills'
 
 
 class App extends Component {
